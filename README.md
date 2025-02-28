@@ -60,7 +60,7 @@ rainy,75.0,80.0,false,yes
 ![o1](/1.png)
 <br><br>
 
-![o2](//2.png)
+![o2](/2.png)
 <br><br>
 
 ### PREPROCESSING
